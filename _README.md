@@ -8,7 +8,7 @@
 
 ## Gold
 
-<https://solved.ac/search?query=*g5...g1>
+<https://solved.ac/search?query=*g5...g1&page=2>
 
 ## Blog
 
